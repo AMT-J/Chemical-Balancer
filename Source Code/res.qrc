@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>icon1.ico</file>
+        <file>yjtp (1).ico</file>
+        <file>style.qss</file>
+        <file>2.jpg</file>
+        <file>3.jpg</file>
+        <file>1.jpg</file>
+        <file>1.jpeg</file>
+    </qresource>
+</RCC>
