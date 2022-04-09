@@ -1,8 +1,8 @@
-中文 | [English](README-EN.md)
-## 化学配平器
-#### 1.本程序可实现化学、离子方程式的配平和检测是否配平
-#### 2.下载地址 https://github.com/AMT-J/Chemical-Balancer/releases/tag/v5.2.0
-#### 3.输入的化学方程式规则如下：
+English | 中文[README-cn]  
+## Chemical Balancer
+#### 1.This program can realize the balance of chemical and ionic equations and check whether they are balanced
+#### 2.Download address https://github.com/AMT-J/Chemical-Balancer/releases/tag/v5.2.0
+#### 3.The rules for entering chemical equations are as follows:
 
 ```
   <equation> ::= <expr> "=" <expr>
