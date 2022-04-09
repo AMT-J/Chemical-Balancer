@@ -1,7 +1,7 @@
  [中文](README.md) | English
  ## Chemical Balancer
  #### 1. This program can realize the balance of chemical and ionic equations and check whether they are balanced
- #### 2. Download address https://github.com/AMT-J/ChemistryCal/releases/tag/v5.2.0
+ #### 2. Download address https://github.com/AMT-J/Chemical-Balancer/releases/tag/v5.2.0
  #### 3. The rules for entering chemical equations are as follows:
  
  ```
