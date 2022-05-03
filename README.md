@@ -11,6 +11,11 @@
   <img src="https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge" />
 </p>
 
+<p align="center">
+	<img src="https://img.shields.io/badge/Chemical Balancer-v5.2.0-important.svg" />
+	<img src="https://img.shields.io/badge/Powered by-AMT-purple.svg" />
+</p>
+
 ## Introduction
 
  - This program can realize the balance of chemical and ionic equations and check whether they are balanced
